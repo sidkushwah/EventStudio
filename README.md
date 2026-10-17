@@ -20,14 +20,3 @@
 *   **Backend**: Python, Flask, SQLite (`sqlite3`)
 *   **Frontend**: HTML5, CSS3 (Glassmorphism & CSS Variables), JavaScript (Vanilla ES6)
 *   **Security**: SHA-256 Hashing, HMAC-style unique token generation
-
----
-
-## 🚀 Getting Started Locally
-
-Follow these steps to get the application running on your local machine:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/omnievent-studio.git](https://github.com/your-username/omnievent-studio.git)
-cd omnievent-studio
